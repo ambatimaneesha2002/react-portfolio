@@ -1,0 +1,180 @@
+{
+    "skills": [
+        "Html",
+        "CSS",
+        "DSA",
+        "ReactJS",
+        "AngularJS",
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "SQL",
+        "PostgreSQL",
+        "NextJS",
+        "GraphQL",
+        "SocketIO",
+        "TailwindCSS",
+        "Java",
+        "C++",
+        "python",
+        "Machine Learning",
+        "AWS",
+        "Django"
+    ],
+    "cv": "Maneesha_FFf_Resume.pdf",
+    "iconLinkList": {
+        "react": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg",
+        "html":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg",
+        "nodejs": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg",
+        "graphql": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg",
+        "django":"https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg",
+        "postgresql": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg",
+        "socketio": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg",
+        "nextjs": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original-wordmark.svg",
+        "tailwindcss": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg",
+        "supabase": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg",
+        "babel": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/babel/babel-original.svg",
+        "apachekafka": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original.svg",
+        "redis": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg",
+        "typescript": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg",
+        "redux": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redux/redux-original.svg",
+        "javascript":"https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg",
+        "github": "https://github.com/ambatimaneesha2002",
+        "linkedin": "https://www.linkedin.com/in/ambati-maneesha-6313b3231/"
+    },
+    "projectListArr": [
+        {
+            "name": "Data visualization",
+            "img": "visualization.png",
+           
+            "githubLink": "https://github.com/ambatimaneesha2002/data-visualization",
+            "completed": true,
+            "techStack": [
+                "react",
+                "redux",
+               "html",
+               "tailwindcss",
+               "javascript",
+               "django"
+            ],
+            "toolsUsed": [
+                "ReactJS",
+                "Html",
+                "TailwindCSS",
+                "Django",
+               "Redux"
+            ],
+            "description": "Developed a data visuaization application using django and html,js. Developed dynamic data visualizations using Django, integrating Chart.js to create responsive charts like bar, line, and pie charts for real-time analytics. Implemented custom views to seamlessly pass data from the backend to Chart.js, enhancing user experience with interactive features. Additionally, optimized performance by leveraging asynchronous data loading techniques, ensuring efficient and smooth rendering of visualizations.."
+        },
+        {
+            "name": "Independent Corporate",
+            "img": "independent.png",
+            "githubLink": "https://github.com/ambatimaneesha2002/job23/tree/main/27.06",
+            "completed": true,
+            "techStack": [
+                "nodejs",
+                "redux",
+                "react"
+            ],
+            "toolsUsed": [
+                "NodeJS",
+                "Redux",
+                "ReactJS"
+            ],
+            "description": " developed 'Independent Corporates' using the MERN stack, a platform that connects freelancers with stakeholders by streamlining the hiring process. Key features include profile reviews, ratings, and a chatbot for efficient communication. This project addresses the challenges of finding reliable clients and the right talent, enhancing efficiency in the freelance market"
+        },
+        {
+            "name": "Automatic BST",
+            "img": "bst.png",
+            "completed": true,
+            "githubLink": "https://github.com/ambatimaneesha2002/Binary-search-tree",
+            "techStack": [
+                "html",
+                "tailwindcss",
+                "javascript"
+            ],
+            "toolsUsed": [
+                "Html",
+                "TailwindCSS",
+                "Javascript"
+            ],
+            "description": "Designed and implemented a CRUD application featuring automatic Binary Search Tree (BST) operations. The application efficiently handles insertion, deletion, and updating of data within the BST. Ensured seamless data management with automatic BST balancing to maintain optimal performance. Enhanced the application's reliability by integrating error handling for edge cases during CRUD operations. The solution provides a robust framework for managing hierarchical data structures."
+        }
+    ],
+
+    "educationListArr":[
+        {
+            "name": "Amar EM school",
+            "img": "school.jpg",
+           
+          
+            "completed": true,
+            "place": 
+                
+               "srikakulam,Andhra Pradesh"
+            ,
+            "completed-Year": 
+               
+           " 2017-18"
+            
+           
+        },
+        {
+           "name": "Sri chaitanya college",
+            "img": "college.jpg",
+           
+          
+            "completed": true,
+            "place": 
+                
+               "srikakulam,Andhra Pradesh"
+            ,
+            "completed-Year": 
+               
+           " 2018-20"
+            
+        },
+        {
+           "name": "Army institute of Technology",
+            "img": "engg.jpg",
+           
+          
+            "completed": false,
+            "place": 
+                
+               "Pune,Maharstra"
+            ,
+            "completed-Year": 
+               
+           " 2021-25"
+        }
+    ]
+,
+"experiencesListArr" : [
+    {
+      "company": "The Tann Mann Gaadi Foundation",
+      "role": "React js | Internship",
+      "period": "September 2023 - December 2023",
+      "side": "left"
+    },
+    {
+      "company": "College of Military Engineering",
+      "role": "Image Processing Intern | Internship",
+      "period": "August 2023",
+      "side": "right"
+    },
+    {
+      "company": "Campus Ambassador",
+      "role": "MasterBuddy | Internship",
+      "period": "July 2023 - August 2023",
+      "side": "left"
+    },
+    {
+      "company": "_VOIS Innovation Marathon",
+      "role": "Winner of Virtual Mini Internship",
+      "period": "June 2022 - October 2022",
+      "side": "right"
+    }
+  ]
+
+}
